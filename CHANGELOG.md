@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.0.0...v2.1.0) (2024-02-29)
+
+
+### Features
+
+* **ui:** landingpage UI refactor according to new guidelines ([3ca9041](https://github.com/ideaigniter/release-please-training-demo/commit/3ca904169955e384bc0dcd36dfb0764d32435ae7))
+
+
+### Bug Fixes
+
+* remove additional log in Logger class ([96a6b36](https://github.com/ideaigniter/release-please-training-demo/commit/96a6b36a2e8fe77d24d4bb2374f444b80388ac88))
+
 ## [2.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v1.0.0...v2.0.0) (2024-02-29)
 
 

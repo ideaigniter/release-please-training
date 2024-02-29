@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.1.1...v2.2.0) (2024-02-29)
+
+
+### Features
+
+* text change on landingpage ([746219a](https://github.com/ideaigniter/release-please-training-demo/commit/746219a12976004c225543a1ab68b829a3f22b7b))
+
 ## [2.1.1](https://github.com/ideaigniter/release-please-training-demo/compare/v2.1.0...v2.1.1) (2024-02-29)
 
 

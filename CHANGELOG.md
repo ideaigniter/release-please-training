@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/ideaigniter/release-please-training-demo/compare/v2.1.0...v2.1.1) (2024-02-29)
+
+
+### Bug Fixes
+
+* remove unecessary Logger initialization ([38d66ca](https://github.com/ideaigniter/release-please-training-demo/commit/38d66ca589a37fc71204e735f55e5b71b8100262))
+
 ## [2.1.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.0.0...v2.1.0) (2024-02-29)
 
 

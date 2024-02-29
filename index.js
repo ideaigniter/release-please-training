@@ -6,7 +6,7 @@ class Logger {
   }
 
   onClick(event) {
-    console.log(`X: ${event.clientX} Y: ${event.clientY}`);
+    console.log(`Cursor position X: ${event.clientX} Y: ${event.clientY}`);
   }
 }
 

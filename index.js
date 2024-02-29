@@ -8,4 +8,3 @@ class Logger {
   }
 }
 
-const logger = new Logger();

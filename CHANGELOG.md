@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.0](https://github.com/ideaigniter/release-please-training-demo/compare/v3.0.0...v3.1.0) (2024-03-02)
+
+
+### Features
+
+* **ci:** add lint workflow ([bdc124c](https://github.com/ideaigniter/release-please-training-demo/commit/bdc124c4bd1f2ed836cede86a4bccd4dcf3ebe8d))
+
+
+### Bug Fixes
+
+* **ci:** add node support ([5ad9d77](https://github.com/ideaigniter/release-please-training-demo/commit/5ad9d7730f132a956b6f7a5d18b96ea50d74435f))
+* **ci:** change node to v20 ([1b93b6b](https://github.com/ideaigniter/release-please-training-demo/commit/1b93b6b70cb116d19543752d9d925a993d71a3fc))
+* **ci:** fix lint workflow ([4378624](https://github.com/ideaigniter/release-please-training-demo/commit/43786243b2513c4d1716d8c5bee5dafe56342a00))
+* **ci:** remove lint workflow ([aeae1cb](https://github.com/ideaigniter/release-please-training-demo/commit/aeae1cb4c79274e108ba9e5d4d1279c32f13dec1))
+
 ## [3.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.2.1...v3.0.0) (2024-03-02)
 
 

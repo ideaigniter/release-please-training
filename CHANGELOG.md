@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.2.1...v3.0.0) (2024-03-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* new version of description
+
+### Bug Fixes
+
+* change description ([7c6de97](https://github.com/ideaigniter/release-please-training-demo/commit/7c6de97c01ff2b32a909268e0e8e266c3bc74880))
+
 ## [2.2.1](https://github.com/ideaigniter/release-please-training-demo/compare/v2.2.0...v2.2.1) (2024-03-02)
 
 

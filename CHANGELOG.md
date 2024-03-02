@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/ideaigniter/release-please-training-demo/compare/v2.2.0...v2.2.1) (2024-03-02)
+
+
+### Bug Fixes
+
+* remove UI and JS scripts ([ea6d1d7](https://github.com/ideaigniter/release-please-training-demo/commit/ea6d1d7d5c131b2771fe32f6f3519a34813d1c0f))
+
 ## [2.2.0](https://github.com/ideaigniter/release-please-training-demo/compare/v2.1.1...v2.2.0) (2024-02-29)
 
 

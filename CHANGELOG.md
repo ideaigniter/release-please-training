@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v4.1.1...v5.0.0) (2024-03-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* changed important description
+
+### Features
+
+* change descrtiption of package.json ([79cb53c](https://github.com/ideaigniter/release-please-training-demo/commit/79cb53c4ccdd785c0cdc4fcb457f434d4692c1e5))
+
 ## [4.1.1](https://github.com/ideaigniter/release-please-training-demo/compare/v4.1.0...v4.1.1) (2024-03-02)
 
 

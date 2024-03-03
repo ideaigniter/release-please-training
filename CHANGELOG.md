@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/ideaigniter/release-please-training-demo/compare/v5.0.0...v5.0.1) (2024-03-03)
+
+
+### Bug Fixes
+
+* change Test class ([d242016](https://github.com/ideaigniter/release-please-training-demo/commit/d242016fb4724e8777d689b4a641c659a93bdfcb))
+
 ## [5.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v4.1.1...v5.0.0) (2024-03-03)
 
 

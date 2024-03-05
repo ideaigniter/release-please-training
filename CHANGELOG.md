@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.0](https://github.com/ideaigniter/release-please-training-demo/compare/v6.0.0...v6.1.0) (2024-03-05)
+
+
+### Features
+
+* change description in package.json ([a92d3c1](https://github.com/ideaigniter/release-please-training-demo/commit/a92d3c1b2ef403ec11b122ced2679e787581caa3))
+
 ## [6.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v5.0.1...v6.0.0) (2024-03-05)
 
 

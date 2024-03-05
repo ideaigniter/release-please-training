@@ -1,5 +1,16 @@
 # Changelog
 
+## [6.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v5.0.1...v6.0.0) (2024-03-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ui:** Add new UI sign in template on bootstrap 5.3.3
+
+### Features
+
+* **ui:** add new UI sign in template ([3f105ed](https://github.com/ideaigniter/release-please-training-demo/commit/3f105ede86435fcf48aabbbdca76ef5938265e84))
+
 ## [5.0.1](https://github.com/ideaigniter/release-please-training-demo/compare/v5.0.0...v5.0.1) (2024-03-03)
 
 

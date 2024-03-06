@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.2.0](https://github.com/ideaigniter/release-please-training-demo/compare/v6.1.1...v6.2.0) (2024-03-06)
+
+
+### Features
+
+* **ui:** change placeholder of email input ([0a858d4](https://github.com/ideaigniter/release-please-training-demo/commit/0a858d4ce0aaf3d995e05deb754c8e06122b709b))
+
 ## [6.1.1](https://github.com/ideaigniter/release-please-training-demo/compare/v6.1.0...v6.1.1) (2024-03-06)
 
 

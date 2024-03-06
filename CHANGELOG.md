@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.0.0](https://github.com/ideaigniter/release-please-training-demo/compare/v6.2.0...v7.0.0) (2024-03-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ui:** removed old UI, replace with new UI!
+
+### Features
+
+* **ui:** remove old ui ([96a05a0](https://github.com/ideaigniter/release-please-training-demo/commit/96a05a0ec625095a3e375618b88bb0e0293341eb))
+
 ## [6.2.0](https://github.com/ideaigniter/release-please-training-demo/compare/v6.1.1...v6.2.0) (2024-03-06)
 
 

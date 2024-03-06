@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.1](https://github.com/ideaigniter/release-please-training-demo/compare/v6.1.0...v6.1.1) (2024-03-06)
+
+
+### Bug Fixes
+
+* **ui:** change sign in label ([f476ced](https://github.com/ideaigniter/release-please-training-demo/commit/f476ced54dcfe3413427da2a4e4273b579ec3d56))
+
 ## [6.1.0](https://github.com/ideaigniter/release-please-training-demo/compare/v6.0.0...v6.1.0) (2024-03-05)
 
 
